@@ -4,13 +4,22 @@ Allows you to spawn Enemies that dont show on the Spawner arm on ULTRAKILL
 # Current Options
 
 -Minos Prime
+
 -V2(limbo version...couldnt find a way to spawn the greed version yet)
+
 -Gabriel
+
 -Eye Drone
+
 -mini Mal Face
+
 -Flesh Prison
+
 -Corpse of King Minos(will spawn bugged)
+
 -Wicked(Unkillable and teleport on hit doesnt seen to work...Beware)
+
+NOTE:I'll be adding more Enemies to the spawn list in the Future.
 
 # Installing
 
