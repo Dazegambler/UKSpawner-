@@ -23,6 +23,10 @@ NOTE:I'll be adding more Enemies to the spawn list in the Future.
 
 # Installing
 
+If you dont know how to install Bepinex to your game follow this Guide
+
+https://docs.bepinex.dev/master/articles/user_guide/installation/unity_mono.html
+
 MUST USE 64 BIT VERSION OF BEPINEX
 
 Drop the UKSpawner.Dll to your BepInEx/plugins File.
