@@ -5,7 +5,7 @@ Allows you to spawn Enemies that dont show on the Spawner arm on ULTRAKILL
 
 -Minos Prime
 
--V2(limbo version...couldnt find a way to spawn the greed version yet)
+-V2(limbo version/greed version(WIP missing its nailgun))
 
 -Gabriel
 
