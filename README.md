@@ -19,7 +19,7 @@ Allows you to spawn Enemies that dont show on the Spawner arm on ULTRAKILL
 
 -Wicked(Unkillable and teleport on hit doesnt seen to work...Beware)
 
--Enemy projectiles
+-Enemy projectiles(Not All, just the ones that were easy to implement)
 
 NOTE:More will be added to it as the game gets updated.
 
@@ -43,9 +43,11 @@ https://github.com/BepInEx/BepInEx.ConfigurationManager
 
 Press U or your designated Key to Arm the Spawner
 
-Press L or your designated Key to Open/Close the spawn Menu
+Press Y or your designated Key to Open/Close the spawn Menu
 
-Press O or your designated Key to Spawn Set Enemy on your crosshair's Position
+Press T or your designated Key to Spawn Set Enemy on your crosshair's Position
+
+Press G or your designated Key to Toggle the Mindflayer beam if spawned
 
 # Building
 
