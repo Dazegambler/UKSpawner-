@@ -19,7 +19,9 @@ Allows you to spawn Enemies that dont show on the Spawner arm on ULTRAKILL
 
 -Wicked(Unkillable and teleport on hit doesnt seen to work...Beware)
 
-NOTE:I'll be adding more Enemies to the spawn list in the Future.
+-Enemy projectiles
+
+NOTE:More will be added to it as the game gets updated.
 
 # Installing
 
