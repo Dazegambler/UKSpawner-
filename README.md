@@ -5,7 +5,7 @@ Allows you to spawn Enemies that dont show on the Spawner arm on ULTRAKILL
 
 -Minos Prime
 
--V2(limbo version/greed version(WIP missing its nailgun))
+-V2(limbo version/greed version)
 
 -Gabriel
 
@@ -46,8 +46,6 @@ Press U or your designated Key to Arm the Spawner
 Press Y or your designated Key to Open/Close the spawn Menu
 
 Press T or your designated Key to Spawn Set Enemy on your crosshair's Position
-
-Press G or your designated Key to Toggle the Mindflayer beam if spawned
 
 # Building
 
