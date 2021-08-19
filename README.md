@@ -33,6 +33,8 @@ MUST USE 64 BIT VERSION OF BEPINEX 5
 
 Drop the UKSpawner.Dll to your BepInEx/plugins File.
 
+LINK TO UKSPAWNER.DLL:https://github.com/Dazegambler/UKSpawner-/releases
+
 # Configuration
 
 You can use any Text Editor to change the .config file but i highly recommend using the plugin linked below for not needing to restart your game everytime:
