@@ -1,3 +1,5 @@
+### THIS MOD WONT BE UPDATED ANYMORE...ITS FEATURES HAVE BEEN TRANSFERED TO ULTRAKIT PLEASE USE IT INSTEAD https://github.com/Dazegambler/UltraKit
+
 # UKSpawner
 Allows you to spawn Enemies that dont show on the Spawner arm on ULTRAKILL
 
